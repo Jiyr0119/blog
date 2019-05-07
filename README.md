@@ -2,18 +2,35 @@
 
 > **博客签名：若批评无自由，则赞美无意义。**
 
+> **博客目的：风起于青萍之末，浪成于微澜之间。**
+
 > **博客宗旨：从现象看本质，再从本质回归到现象。**
 
-> **博客目的：给老夫一个回头看看自己精神世界的时光机。**
-
-> **博客主人：Too young,too simple.Sometimes,naive & stupid.**
+> **博客主人：Too young,too simple.Sometimes,naive.**
                
-> **博客座右铭：生活不止裆下的苟且，还有看不到的bug和读不懂的code。**
+> **博客座右铭：生活不止裆下的苟且，还有未知的bug和看不懂的code。**
 
-## 2017
 **行远自迩，登高自卑，与君共勉。文以载道，歌以咏志。** 
 
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
+## 2018
+### March
+*三月金明柳絮飞，岸花堤草弄春时。*
+
+* March 5, 2018 **»** [一行代码实现一个简单的模板字符串替换](https://github.com/jawil/blog/issues/32)
+
+
+## 2017
+### December
+*日晏霜浓十二月，林疏石瘦第三溪。*
+* December 23, 2017 **»** [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
+
+### September
+*可怜九月初三夜，露似珍珠月似弓。*
+
+* September 26, 2017 **»** [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
+* September 14, 2017 **»** [安利一下自己为 GitHub 开发的首个 Chrome 插件—GayHub😂](https://github.com/jawil/blog/issues/28)
+
 
 ### August
 *八月凉风天气晶，万里无云河汉明。*
